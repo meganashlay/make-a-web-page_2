@@ -1,0 +1,49 @@
+body {
+  background-color: #E0EAEA;
+}
+
+.header-image {
+  height: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-title {
+  color: #009999;
+  text-align: center;
+}
+
+.TOC {
+  color: #191935;
+  text-align: center;
+}
+
+.work-session {
+  background-color: #00FFFF;
+  border: #00CCCC solid 2px;
+  border-radius: 5%;
+  margin: 4px;
+}
+
+.work-session-title {
+  color: #003659;
+  text-align: center;
+}
+
+.idea-title {
+  text-align: center;
+  color: #00004C;
+  font-weight: bolder;
+}
+
+.idea {
+  margin: 8px;
+  background-color: #33CFCF;
+  border: #00CCCC solid 2px;
+  border-radius:10%;
+}
+
+.supporting-text {
+  font-family: Helvetica;
+}
